@@ -1,0 +1,6 @@
+# This file was automatically generated
+name: intuition
+type: duckdb
+options:
+  filename: db.duckdb
+
