@@ -1,0 +1,3 @@
+[submodule "intuition"]
+	path = intuition
+	url = git@github.com:vloth/intuition.git
